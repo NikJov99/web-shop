@@ -1,0 +1,41 @@
+.shop {
+  margin-bottom: 3rem;
+}
+
+.shop h1 {
+  margin-bottom: 1rem;
+}
+
+.shop-data {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shop-data a {
+  padding: 0.4rem;
+  font-size: 0.9rem;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.15s ease;
+}
+
+.shop-data a:hover {
+  color: #f1356d;
+  text-decoration: underline;
+}
+
+.item-link {
+  display: flex;
+  text-align: center;
+  width: 30%;
+  margin: 2rem 0.5rem;
+  padding: 0.5rem;
+}
+
+.item-link img {
+  height: 150px;
+  width: 150px;
+  object-fit: contain;
+  margin: 2rem 0;
+}

@@ -1,0 +1,12 @@
+.about h1 {
+  margin-bottom: 1rem;
+}
+
+.about img {
+  width: 200px;
+  margin: 1rem 0;
+}
+
+p {
+  margin: 2rem 0;
+}
